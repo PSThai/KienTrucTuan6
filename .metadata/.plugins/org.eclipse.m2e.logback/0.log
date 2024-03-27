@@ -536,3 +536,17 @@
 2024-03-27 00:26:12,434 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@264e2e4d{STOPPING}[12.0.3,sto=0]
 2024-03-27 00:26:12,437 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5ad4e360{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2024-03-27 09:22:16,142 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-27 10:50:54,085 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-27 11:03:44,862 [Worker-38: Launching Registry - RegistryApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-27 11:03:44,875 [Worker-38: Launching Registry - RegistryApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-27 11:03:44,878 [Worker-38: Launching Registry - RegistryApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Study\HK2_Nam4\Kientruc\KienTrucTuan6\KienTrucTuan6\Registry\src\test\resources
+2024-03-27 11:03:47,724 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-27 11:03:47,736 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-27 11:03:47,740 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Study\HK2_Nam4\Kientruc\KienTrucTuan6\KienTrucTuan6\Gateway\src\test\resources
+2024-03-27 11:03:49,155 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-27 11:03:49,165 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-27 11:03:49,168 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Study\HK2_Nam4\Kientruc\KienTrucTuan6\KienTrucTuan6\Product\src\test\resources
+2024-03-27 11:03:50,066 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-27 11:03:50,078 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-27 11:03:50,082 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Study\HK2_Nam4\Kientruc\KienTrucTuan6\KienTrucTuan6\User\src\test\resources
+2024-03-27 12:30:46,238 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
